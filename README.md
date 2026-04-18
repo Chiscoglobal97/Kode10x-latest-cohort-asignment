@@ -1,4 +1,4 @@
-# 🚀 Team Web Project: HTML Homepage
+# Kode10x latest cohort team project
 
 ## 📌 Project Overview
 This is a collaborative team project built using **Semantic HTML only**. The goal is to create a well-structured, SEO-friendly website where each team member manages a specific section of the site.
@@ -9,9 +9,9 @@ To ensure our links work after merging, we must use these exact filenames:
 
 | Team Member | Responsibility | Filename |
 | :--- | :--- | :--- |
-| **[Your Name]** | Home Page (SEO Hub) | `index.html` |
-| **Collaborator 1** | About Us Page | `about.html` |
-| **Collaborator 2** | Services Page | `services.html` |
+| **[Mr. Gideon]** | Home Page (SEO Hub) | `index.html` |
+| **Mr. Adewale** | About Us Page | `about.html` |
+| **Mr. Virtue** | Services Page | `services.html` |
 
 ---
 
